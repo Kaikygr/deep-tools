@@ -1,6 +1,6 @@
 # Deep Tools
 
-[![versão npm](https://badge.fury.io/js/deep-tools.svg)](https://badge.fury.io/js/deep-tools) <!-- Substitua 'deep-tools' se o nome do seu pacote npm for diferente -->
+[![versão npm](https://badge.fury.io/js/deep-tools.svg)](https://badge.fury.io/js/@kaikygr/deep-tools-ts) <!-- Substitua 'deep-tools' se o nome do seu pacote npm for diferente -->
 [![Status de Build](https://travis-ci.org/kaikygr/deep-tools.svg?branch=main)](https://travis-ci.org/kaikygr/deep-tools) <!-- Substitua com seu serviço/link de CI -->
 [![Cobertura de Testes](https://coveralls.io/repos/github/kaikygr/deep-tools/badge.svg?branch=main)](https://coveralls.io/github/kaikygr/deep-tools?branch=main) <!-- Substitua com seu serviço/link de cobertura -->
 [![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
