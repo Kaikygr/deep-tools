@@ -170,7 +170,7 @@ Este projeto está sob licença MIT.
 
 ## Autor
 
-Seu Nome - [github.com/kaikygr](https://github.com/kaikygr)
+Kaiky Brito - [github.com/kaikygr](https://github.com/kaikygr)
 
 ## Agradecimentos
 
