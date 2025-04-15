@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    /* Base Options: */
+    "esModuleInterop": true, // Necessário para import do lodash e compatibilidade geral
+    "skipLibCheck": true, // Acelera a compilação
+    "target": "ES2016", // Ou um target mais novo como ES2020, ESNext
+    "module": "CommonJS", // Para compatibilidade com Node.js/Jest
+    "outDir": "./dist", // Diretório de saída para JS compilado
+    "rootDir": "./src", // Diretório raiz dos seus fontes .ts
+    "declaration": true, // Gera arquivos .d.ts (como no seu package.json)
+    /* Strictness (Altamente Recomendado) */
+    "strict": true,
+    /* Module Resolution */
+    "moduleResolution": "node", // Resolução de módulos padrão para Node
+    /* Interop Constraints */
+    "forceConsistentCasingInFileNames": true // Garante consistência no case dos imports
+  },
+  "include": [
+    "src/**/*" // Inclui todos os arquivos dentro de src para compilação
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "src/__tests__" // Exclui node_modules, o diretório de saída e os testes
+    // (Jest/ts-jest cuidam da compilação dos testes)
+  ]
+}
