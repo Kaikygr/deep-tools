@@ -1,6 +1,6 @@
 {
     "name": "@kaikygr/deep-tools-ts",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Ferramentas para manipulação de objetos aninhados em TypeScript",
     "main": "dist/deep-tools.js",
     "types": "dist/deep-tools.d.ts",
