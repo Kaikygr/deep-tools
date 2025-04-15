@@ -1,9 +1,27 @@
 {
-    "name": "deep-tools-ts",
+    "name": "@kaikygr/deep-tools-ts",
     "version": "1.0.0",
-    "description": "Ferramentas para manipulação de objetos aninhados",
+    "description": "Ferramentas para manipulação de objetos aninhados em TypeScript",
     "main": "dist/deep-tools.js",
     "types": "dist/deep-tools.d.ts",
+    "keywords": [
+        "typescript",
+        "utils",
+        "objects",
+        "deep",
+        "nested",
+        "manipulation"
+    ],
+    "author": "Kaiky",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kaikygr/deep-tools.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kaikygr/deep-tools/issues"
+    },
+    "homepage": "https://github.com/kaikygr/deep-tools#readme",
     "scripts": {
         "build": "tsc",
         "test": "jest",
