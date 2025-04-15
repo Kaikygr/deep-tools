@@ -1,5 +1,5 @@
 {
-    "name": "deep-tools",
+    "name": "deep-tools-ts",
     "version": "1.0.0",
     "description": "Ferramentas para manipulação de objetos aninhados",
     "main": "dist/deep-tools.js",
